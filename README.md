@@ -4,15 +4,16 @@
 
 Disciplina dada por Prof. Tiago José Arruda
 
-## 📖 Matérias de geometria analítica 2025/1
+## Matérias de geometria analítica 2025/1 📖
 
-- Matrizes e determinantes (1ª e 2ª semana)
-- ➡️ 
+- 🧮 Matrizes e determinantes (1ª e 2ª semana)
+- 🧩 Sistemas de equaçoes lineares (3ª e 4ª semana)
+- ➡️ Segmentos orientados e vetores (5ª e 6ª semana)
+- 📏 Equaçao da reta e do plano (7ª e 8ª semana)
+- 🔵 Elipses, hipérboles e parábolas (9ª semana)
 
 
-
-
-## Videoaulas 
+## Videoaulas 📹
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/page/view.php?id=62799
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/page/view.php?id=62808
@@ -31,7 +32,7 @@ https://campusvirtual.unifal-mg.edu.br/moodle/mod/page/view.php?id=62869
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/page/view.php?id=62883
 
-## Materiais de apoio
+## Materiais de apoio 📚
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/resource/view.php?id=62801
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/resource/view.php?id=62810
@@ -50,7 +51,7 @@ https://campusvirtual.unifal-mg.edu.br/moodle/mod/resource/view.php?id=62871
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/resource/view.php?id=62885
 
-## Listas de exercicios 
+## Listas de exercicios ➕
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/assign/view.php?id=62803
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/assign/view.php?id=62812
@@ -69,7 +70,7 @@ https://campusvirtual.unifal-mg.edu.br/moodle/mod/assign/view.php?id=62873
 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/assign/view.php?id=62887
 
-## Listas resolvidas
+## Listas resolvidas 📝
 https://campusvirtual.unifal-mg.edu.br/moodle/pluginfile.php/213026/assignsubmission_file/submission_files/68260/Matrizes.pdf?forcedownload=1
 
 https://campusvirtual.unifal-mg.edu.br/moodle/pluginfile.php/213035/assignsubmission_file/submission_files/75603/Matrizes%20e%20determinantes%20.pdf?forcedownload=1
