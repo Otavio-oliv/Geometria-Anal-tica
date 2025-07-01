@@ -1,5 +1,16 @@
-# Geometria-Analítica
-Matérias de geometria analítica
+# 📐 Geometria-Analítica
+
+## Professor 🧑‍🏫
+
+Disciplina dada por Prof. Tiago José Arruda
+
+## 📖 Matérias de geometria analítica 2025/1
+
+- Matrizes e determinantes (1ª e 2ª semana)
+- ➡️ 
+
+
+
 
 ## Videoaulas 
 https://campusvirtual.unifal-mg.edu.br/moodle/mod/page/view.php?id=62799
